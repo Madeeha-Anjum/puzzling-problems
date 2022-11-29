@@ -58,7 +58,7 @@ Writing some fire code 🔥🔥🔥 To the mooooonnnn 🚀!!!
 * [x] [148. Sort List](https://leetcode.com/problems/sort-list/)
 * [ ] [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
-# Stacks
+## Stacks
 
 * [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 * [ ] [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
@@ -98,7 +98,7 @@ Writing some fire code 🔥🔥🔥 To the mooooonnnn 🚀!!!
 
 * [X] [***TODO***] [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 * [ ] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-* [ ] []()
+
 * [x] [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 * [ ] [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 * [ ] [https://leetcode.com/problems/happy-number/](https://leetcode.com/problems/happy-number/)
@@ -114,7 +114,7 @@ Writing some fire code 🔥🔥🔥 To the mooooonnnn 🚀!!!
 
 ## Multi Sets
 
-* [] [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+* [ ] [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 * [ ] [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
 * [ ] [389. Find the Difference](https://leetcode.com/problems/find-the-difference/)
 * [ ] [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
@@ -135,7 +135,7 @@ Writing some fire code 🔥🔥🔥 To the mooooonnnn 🚀!!!
 [Source1](https://www.freecodecamp.org/news/demystifying-dynamic-programming-3efafb8d4296)
 [Source2](https://hackernoon.com/dynamic-programming-python-80f944aa6e6c)
 
-* [] [322. Coin Change](https://leetcode.com/problems/coin-change/)
+* [ ] [322. Coin Change](https://leetcode.com/problems/coin-change/)
 
 ## Queues
 
@@ -155,3 +155,13 @@ Writing some fire code 🔥🔥🔥 To the mooooonnnn 🚀!!!
 ## Useful links
 
 [Visualize](https://visualgo.net/en)
+
+## SQL
+
+* [x] [595 Big Countries](https://leetcode.com/problems/big-countries/)
+* [ ] [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+* [ ] [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
+* [ ] [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)
+* [ ] [178. Rank Scores](https://leetcode.com/problems/rank-scores/)
+* [ ] [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)
+* [ ] [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
