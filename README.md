@@ -159,7 +159,7 @@ Writing some fire code 🔥🔥🔥 To the mooooonnnn 🚀!!!
 ## SQL
 
 * [x] [595 Big Countries](https://leetcode.com/problems/big-countries/)
-* [ ] [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+* [x] [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
 * [ ] [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
 * [ ] [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)
 * [ ] [178. Rank Scores](https://leetcode.com/problems/rank-scores/)
