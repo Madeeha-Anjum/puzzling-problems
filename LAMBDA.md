@@ -32,3 +32,29 @@ nums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 sort_lambda = sorted(nums, key = lambda x: x%2)
 print(sort_lambda)
 ```
+
+reducer function
+
+```python
+# reducer function
+# takes a list and a function and returns a single value
+# the function is applied to each element of the list and the result is stored in the accumulator
+# For example, 
+lst = [1, 2, 3, 4, 5]  
+ans = reducer(lambda (x, y: x + y,) lst))
+#  the result is ((((1 + 2) + 3) + 4) + 5) = 15.
+```
+
+mapping function
+
+```python
+# mapping function
+# takes a list and a function and returns a list
+# the function is applied to each element of the list and the result is stored in the accumulator
+# For example,
+lst = [1, 2, 3, 4, 5]
+and = map(lambda x: x + 1, lst)
+# the result is [2, 3, 4, 5, 6]
+```
+
+```
