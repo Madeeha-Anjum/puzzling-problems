@@ -18,3 +18,5 @@ This repository contains my solutions to the problems on [CodeWars](http://codew
 - [x] [Will you make it?](https://www.codewars.com/kata/5861d28f124b35723e00005e/train/python)
 
 ## 7 kyu - Fundamentals  
+
+- [x] [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/python)
