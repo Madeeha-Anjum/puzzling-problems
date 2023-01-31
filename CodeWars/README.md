@@ -20,3 +20,4 @@ This repository contains my solutions to the problems on [CodeWars](http://codew
 ## 7 kyu - Fundamentals  
 
 - [x] [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/python)
+- [x] [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040/train/python)
