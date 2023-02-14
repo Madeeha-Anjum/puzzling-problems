@@ -55,6 +55,14 @@ mapping function
 lst = [1, 2, 3, 4, 5]
 and = map(lambda x: x + 1, lst)
 # the result is [2, 3, 4, 5, 6]
+ 
 ```
 
+```python
+#  lambda reducer function examples with accumulator
+reduce(
+    lambda acc, item: acc + item[1] if item[0] >= 110 else acc,
+    dic.items(),
+    0,
+)
 ```

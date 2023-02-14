@@ -22,3 +22,6 @@ This repository contains my solutions to the problems on [CodeWars](http://codew
 - [x] [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/python)
 - [x] [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040/train/python)
 - [x] - [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/python)
+- [-] [Make Your Own Hashmap](https://www.codewars.com/kata/5a6a02adcadebf618400002b/train/python)
+- [x] [Cats and shelves] (<https://www.codewars.com/kata/62c93765cef6f10030dfa92b/train/python>)
+- [x][The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063/train/python)
