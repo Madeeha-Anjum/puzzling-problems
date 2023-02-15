@@ -1,7 +1,7 @@
 from functools import reduce
 
 
-def hash(item):
+def create_key(item):
     # convert to list of numbers
 
     return reduce(lambda acc, value: acc + ord(value), list(item), 0)
@@ -17,7 +17,7 @@ def my_hash_map(list_of_strings):
     dic = dict()
     for item in list_of_strings:
         # convert to hash
-        dic[hash(item)] = [item]
+        dic[create_key(item)] = [item]
 
     return dic
 

@@ -24,4 +24,7 @@ This repository contains my solutions to the problems on [CodeWars](http://codew
 - [x] - [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/python)
 - [-] [Make Your Own Hashmap](https://www.codewars.com/kata/5a6a02adcadebf618400002b/train/python)
 - [x] [Cats and shelves] (<https://www.codewars.com/kata/62c93765cef6f10030dfa92b/train/python>)
-- [x][The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063/train/python)
+- [x] [The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063/train/python)
+- [x] [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/python)
+- [x] [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/train/python)
+- [ ] [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/train/python)

@@ -1,3 +1,5 @@
+# ALL ABOUT LAMBDA FUNCTIONS
+
 ```python
 """
 Lambda function input(prompt)
@@ -33,19 +35,16 @@ sort_lambda = sorted(nums, key = lambda x: x%2)
 print(sort_lambda)
 ```
 
-reducer function
+---
+
+## filter function
 
 ```python
-# reducer function
-# takes a list and a function and returns a single value
-# the function is applied to each element of the list and the result is stored in the accumulator
-# For example, 
-lst = [1, 2, 3, 4, 5]  
-ans = reducer(lambda (x, y: x + y,) lst))
-#  the result is ((((1 + 2) + 3) + 4) + 5) = 15.
+
+res = list(filter(lambda x: x % 2 == 0, xs))
 ```
 
-mapping function
+## mapping function
 
 ```python
 # mapping function
@@ -55,10 +54,23 @@ mapping function
 lst = [1, 2, 3, 4, 5]
 and = map(lambda x: x + 1, lst)
 # the result is [2, 3, 4, 5, 6]
+len_set = set(map(lambda x: len(x), s.split(" ")))
+
+len_set = [len(x) for x in s.split(" ")]
  
 ```
 
+## reducer function
+
 ```python
+# reducer function
+# takes a list and a function and returns a single value
+# the function is applied to each element of the list and the result is stored in the accumulator
+# For example, 
+lst = [1, 2, 3, 4, 5]  
+ans = reducer(lambda (x, y: x + y,) lst))
+#  the result is ((((1 + 2) + 3) + 4) + 5) = 15.
+
 #  lambda reducer function examples with accumulator
 reduce(
     lambda acc, item: acc + item[1] if item[0] >= 110 else acc,
