@@ -27,4 +27,6 @@ This repository contains my solutions to the problems on [CodeWars](http://codew
 - [x] [The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063/train/python)
 - [x] [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/python)
 - [x] [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/train/python)
-- [ ] [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/train/python)
+- [x] [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/train/python)
+- [x] [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/python)
+- [ ] [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/python)

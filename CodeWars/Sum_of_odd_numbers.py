@@ -32,8 +32,8 @@ def row_sum_odd_numbers(n):
     return sum(row)
 
 
-#  or make a list of od and take the last n values
-#
+# or make a list of od and take the last n values
+# Or just realize that the sum is n power  of 3 on each line
 
 
 if __name__ == "__main__":
