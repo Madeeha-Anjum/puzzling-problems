@@ -31,6 +31,10 @@ This repository contains my solutions to the problems on [CodeWars](http://codew
 - [x] [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/python)
 - [x] [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/python)
 
-## 6 kyu - Fundamentals  
+## 6 kyu - Rank up
 
 - [x] [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python)
+- [x] [Street Fighter 2 - Character Selection](https://www.codewars.com/kata/5853213063adbd1b9b0000be/train/python)
+- [x] [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009/train/python)
+
+## 5 kyu - Rank up
