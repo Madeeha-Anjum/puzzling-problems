@@ -38,3 +38,5 @@ This repository contains my solutions to the problems on [CodeWars](http://codew
 - [x] [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009/train/python)
 
 ## 5 kyu - Rank up
+
+- [x] [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7/train/python)
