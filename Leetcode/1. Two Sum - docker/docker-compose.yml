@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  app:
+    tty: true
+    # Location of DockerFile
+    build: .
+    stdin_open: true
+    volumes:
+      - ./src:/usr/src/app/src
