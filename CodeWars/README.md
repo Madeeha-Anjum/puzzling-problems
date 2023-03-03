@@ -40,4 +40,5 @@ This repository contains my solutions to the problems on [CodeWars](http://codew
 ## 5 kyu - Rank up
 
 - [x] [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7/train/python)
-- [ ] [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/python)
+- [x] [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/python)
+image.png
