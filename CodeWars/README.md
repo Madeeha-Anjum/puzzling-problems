@@ -43,3 +43,11 @@ This repository contains my solutions to the problems on [CodeWars](http://codew
 - [x] [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/python)
 image.png
 - [x] [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a/train/python)
+- [x] [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/python)
+- [x] [Pick peaks](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7/train/python)
+
+- [x] [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4/train/python)
+
+## 4 kyu - Rank up
+
+- [] [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/python)
