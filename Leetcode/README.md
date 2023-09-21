@@ -85,6 +85,10 @@ Writing some fire code 🔥🔥🔥 To the mooooonnnn 🚀!!!
 * [ ] [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 * [ ] [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
+## Binary  
+
+* [partial] [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+
 ## Trees
 
 * [***TODO***] [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
