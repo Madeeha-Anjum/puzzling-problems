@@ -18,6 +18,8 @@ Writing some fire code 🔥🔥🔥 To the mooooonnnn 🚀!!!
 * [x] [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 * [ ] [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
 * [x] [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)
+* [x] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+* [x] [27. Remove Element](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150)
 
 ## Lambda
 
@@ -36,6 +38,7 @@ Writing some fire code 🔥🔥🔥 To the mooooonnnn 🚀!!!
 ## Arrays
 
 * [x] [1. Two Sum](https://leetcode.com/problems/two-sum/)
+* [x] [15. 3Sum](https://leetcode.com/problems/3sum/submissions/)
 * [ ] [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 * [ ] [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)  
 * [ ] [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)

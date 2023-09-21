@@ -50,9 +50,9 @@
 - **Log N** SORTING is the number of times you can divide N by 2 before you get 1 || Cut the problem space in half
 - **N Log N** SORTING is the number of times you can divide N by 2 before you get 1 || Cut the problem space in half and **put it together**
 -
-  - Example: Binary Search | O(Log N) -> searching
-  - Example: Merge Sort | O(N Log N) -> sorting
-  - Example: Quick Sort | O(N Log N) -> sorting
+  - Example: Binary Search | O(Log N) -> searching log (array size)
+  - Example: Merge Sort | O(N Log N) -> sorting (array size) * log (depth of tree)
+  - Example: Quick Sort | O(N Log N) -> sorting (array size) * log (depth of tree)
   - Example: Hash Tables
   - Example: Breadth First Search
   - Example: Depth First Search
