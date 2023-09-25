@@ -91,6 +91,8 @@ Writing some fire code 🔥🔥🔥 To the mooooonnnn 🚀!!!
 
 ## Trees
 
+* [x] [104. Maximum Depth of Binary Tree
+](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 * [***TODO***] [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 * [***TODO***] [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 * [ ] [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
