@@ -72,7 +72,7 @@ Writing some fire code 🔥🔥🔥 To the mooooonnnn 🚀!!!
 ## LinkedLists
 
 * [x] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
-* [ ] [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+* [x] [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 * [ ] [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 * [ ] [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 * [ ] [160. Intersection of Two Linked Lists
