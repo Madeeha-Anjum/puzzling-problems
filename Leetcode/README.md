@@ -91,6 +91,7 @@ Writing some fire code 🔥🔥🔥 To the mooooonnnn 🚀!!!
 
 ## Trees
 
+* [x] [100. Same Tree](https://leetcode.com/problems/same-tree/)
 * [x] [104. Maximum Depth of Binary Tree
 ](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 * [***TODO***] [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
@@ -154,6 +155,7 @@ Writing some fire code 🔥🔥🔥 To the mooooonnnn 🚀!!!
 
 ## Graphs
 
+* [x] [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
 * [ ] [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
 * [ ] [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)
 * [ ] [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
