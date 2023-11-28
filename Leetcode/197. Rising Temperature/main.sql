@@ -22,8 +22,15 @@ SELECT DATEDIFF(day, '2017/08/25', '2011/08/25') AS DateDiff;
 
 
 -- Join on it self where ever the difference of data is 1 
+
+-- cross join on itself 
+-- get the T1.id and not T2. id 
+-- DATEDIFF
+
 SELECT T1.id, T1.recordDate
 FROM Weather T1, Weather T2
 WHERE DATEDIFF(T1.recordDate, T2.recordDate) = 1 
 AND T1.temperature > T2.temperature   
+
+
 

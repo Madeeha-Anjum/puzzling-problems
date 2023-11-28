@@ -18,3 +18,6 @@ The time to complete a process is the 'end' timestamp minus the 'start' timestam
 The resulting table should have the machine_id along with the average time as processing_time, which should be rounded to 3 decimal places.
 
 Return the result table in any order.
+
+
+-- average time each machine takes to complete a the same number of process 
